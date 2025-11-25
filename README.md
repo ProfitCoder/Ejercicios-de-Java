@@ -1,2 +1,2 @@
 # Ejercicios-de-Java
-A continuacion subire ejercicios de JAVA desde lo mas sencillo a mas complicado
+A continuación se adjuntaran ejercicios de Java de todos los niveles de java, intentare que esten ordenados poco a poco.
