@@ -1,6 +1,6 @@
 /**
  *
- * @author FMA
+ * @author Pablo Manuel Fernandez
  */
 public class SentenciasCondicionales {
 
@@ -56,3 +56,4 @@ public class SentenciasCondicionales {
     }
     
 }
+
