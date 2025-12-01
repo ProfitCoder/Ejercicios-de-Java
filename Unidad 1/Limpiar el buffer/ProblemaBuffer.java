@@ -16,7 +16,7 @@ public class ProblemaBuffer
 		System.out.print("Valor entero: ");
 		x = Integer.parseInt(sc.nextInt());
 		
-		//Limpiar el buffer del \nCadena. Y ya esto no hace falta
+		//Limpiar el buffer del \nCadena. Y ya esto hace que el buffer se limpie y ya no ocurran problemas
 		sc.nextLine();
 		
 		System.out.print("\nCadena: ");					//No la coge porque las cadenas acaban con \n y no lo detecta, para solucionar limpiar el buffer.
@@ -30,4 +30,5 @@ public class ProblemaBuffer
 		System.out.printf("\nnum = %d", num);				//Nos pasa de entero a int
 		
 	}
+
 }
