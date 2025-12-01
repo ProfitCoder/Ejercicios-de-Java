@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SaludoP
+public class Saludo
 {
 	public static void main(String [] args)
 	{
@@ -18,4 +18,5 @@ public class SaludoP
 	System.out.printf("\n Hola " + Nombre);
 	System.out.println("\n");
 	}
+
 }
