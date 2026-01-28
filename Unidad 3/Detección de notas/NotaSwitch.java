@@ -34,4 +34,5 @@ public class NotaSwitch
 				System.out.print("\nCalifiación no valida.\n");
 		}
 	}
+
 }
