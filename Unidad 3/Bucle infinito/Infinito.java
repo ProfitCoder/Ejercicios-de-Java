@@ -7,9 +7,10 @@ public class Infinito
 		int i;
 		
 		//Resolucion del problema
-		for (i=0;i<=6;i++)
+		for (i=0;i<=6;i--)
 		{
 			System.out.print("\nIteración " + i);
 		}
 	}
 }
+
