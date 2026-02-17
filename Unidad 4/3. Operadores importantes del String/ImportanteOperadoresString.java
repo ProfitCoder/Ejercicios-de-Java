@@ -53,4 +53,5 @@ public class ImportanteOperadoresString
 		
 		System.out.print(cad1.replace("Mancha","Granada"));
 	}
+
 }
