@@ -1,0 +1,4 @@
+Para ejecutar esta carpeta hay que:
+  -- 1. Descargar y descomprimir toda la carpeta.
+  -- 2.Abrir la terminal y compilar con el comando "javac "".java".
+  -- 3.Ejecutar a raiz del metodo Main (Clase MetodoTest.java) para poder ver el programa.
