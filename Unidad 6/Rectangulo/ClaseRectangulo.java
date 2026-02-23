@@ -1,3 +1,5 @@
+//@rofitCoder		9:17 16/02/2026
+
 public class Rectangulo{
 	//Atributos
 	private double x1, y1; //vertice inferior
@@ -31,4 +33,5 @@ public class Rectangulo{
 		System.out.println(r1);
 	}
 	
+
 }
