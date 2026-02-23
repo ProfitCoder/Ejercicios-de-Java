@@ -1,4 +1,4 @@
-//Pablo Manuel Fernandez Velazquez  			12:14			20/02/2026
+//ProfitCoder  			12:14			20/02/2026
 
 /*Metodo burbuja es aquel que sirve para ordenar
 Arrays de la manera que se indique */
@@ -35,4 +35,5 @@ public class EjemploBurbuja{
 	
 		burbuja(numeros);
 	}
+
 }	
