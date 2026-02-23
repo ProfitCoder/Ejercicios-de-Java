@@ -1,4 +1,4 @@
-//@Pablo Manuel Fernandez Velazquez		9:17 16/02/2026
+//@ProfitCoder		9:17 16/02/2026
 
 //Si no importamos un paquete java toma como paquete la carpeta en la que se encuentra esta clase
 
@@ -95,4 +95,5 @@ class Rectangulo{
 		System.out.println("\nLa superficie del Rectangulo 2 es: " + r2.calcularSuperficie());
 	}
 	
+
 }
