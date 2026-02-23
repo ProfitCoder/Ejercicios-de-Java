@@ -1,4 +1,4 @@
-//@Pablo Manuel Fernandez Velazquez 	9:08    19/02/2026
+//@ProfitCoder 	9:08    19/02/2026
 
 public class Modulo{
 	//Atributos
@@ -105,4 +105,5 @@ public class Modulo{
 			alumnos[i].informeAlumno();
 		}
 	}
+
 }
