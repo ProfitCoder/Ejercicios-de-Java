@@ -1,3 +1,5 @@
+//ProfitCoder		00:00			20/02/2026
+
 public class ModuloTest{
 	public static void main(String [] args){
 		//a) Creacion de 5 alumnos
@@ -38,4 +40,5 @@ public class ModuloTest{
 		//d) Informe final (Mostrando informacion de todos los alumnos)
 		//mod1.informeCurso();
 	}
+
 }
